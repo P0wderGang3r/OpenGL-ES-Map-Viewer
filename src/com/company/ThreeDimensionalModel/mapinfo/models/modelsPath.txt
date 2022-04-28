@@ -1,0 +1,7 @@
+/home/anasko/github-projects/TestLWJGL/src/com/company/ThreeDimensionalModel/models/platform.txt
+/home/anasko/github-projects/TestLWJGL/src/com/company/ThreeDimensionalModel/models/cuboid.txt
+/home/anasko/github-projects/TestLWJGL/src/com/company/ThreeDimensionalModel/models/prism.txt
+/home/anasko/github-projects/TestLWJGL/src/com/company/ThreeDimensionalModel/models/cylinder.txt
+/home/anasko/github-projects/TestLWJGL/src/com/company/ThreeDimensionalModel/models/cone.txt
+/home/anasko/github-projects/TestLWJGL/src/com/company/ThreeDimensionalModel/models/cone.txt
+/home/anasko/github-projects/TestLWJGL/src/com/company/ThreeDimensionalModel/models/cuboid2.txt

@@ -1,0 +1,6 @@
+/home/anasko/github-projects/TestLWJGL/src/com/company/ThreeDimensionalModel/textures/defaulttex.data
+/home/anasko/github-projects/TestLWJGL/src/com/company/ThreeDimensionalModel/textures/groundtex.data
+/home/anasko/github-projects/TestLWJGL/src/com/company/ThreeDimensionalModel/textures/leavestex.data
+/home/anasko/github-projects/TestLWJGL/src/com/company/ThreeDimensionalModel/textures/woodtex.data
+/home/anasko/github-projects/TestLWJGL/src/com/company/ThreeDimensionalModel/textures/hometex.data
+/home/anasko/github-projects/TestLWJGL/src/com/company/ThreeDimensionalModel/textures/rooftex.data
