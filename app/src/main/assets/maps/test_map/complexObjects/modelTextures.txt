@@ -1,0 +1,7 @@
+groundtex
+hometex
+rooftex
+woodtex
+leavestex
+leavestex
+hometex

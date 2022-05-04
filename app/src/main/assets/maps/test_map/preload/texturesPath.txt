@@ -1,0 +1,6 @@
+defaulttex
+groundtex
+leavestex
+woodtex
+hometex
+rooftex
