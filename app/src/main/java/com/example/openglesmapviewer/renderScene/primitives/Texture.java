@@ -74,7 +74,9 @@ public class Texture {
 
         this.textureName = textureName;
 
-        int id = SceneGlobals.getContext().getResources().getIdentifier(pathToTexture, null, SceneGlobals.getContext().getPackageName());
+        int id = SceneGlobals.getContext().getResources()
+                .getIdentifier(pathToTexture, null, SceneGlobals.getContext()
+                        .getPackageName());
         this.bitmap = BitmapFactory.decodeResource(SceneGlobals.getContext().getResources(), id);
     }
 }

@@ -65,7 +65,7 @@ public class RenderTexturedTriangle implements RenderTarget {
     }
 
     /**
-     *
+     * Запрос содержимого шейдера
      * @param type == GL_VERTEX_SHADER || GL_FRAGMENT_SHADER
      * @return String Кодовая база шейдера
      */

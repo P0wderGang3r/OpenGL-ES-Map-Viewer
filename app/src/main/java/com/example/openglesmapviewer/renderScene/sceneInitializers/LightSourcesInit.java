@@ -56,6 +56,9 @@ public class LightSourcesInit {
         }
     }
 
+    //Передача ссылки осуществляется следующим вызовом:
+    //String[] lightRadiuses = initLightRadiuses(pathToLightSources + "lightRadiuses.txt");
+    //Здесь pathToLightSources == "maps/" + SceneMemory.getMapName() + "/lightSources/"
     private static String[] initLightRadiuses(String pathToLightRadius) {
         ArrayList<String[]> modelPositions = new ArrayList<>();
 

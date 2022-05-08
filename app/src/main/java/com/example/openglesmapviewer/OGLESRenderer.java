@@ -73,6 +73,7 @@ public class OGLESRenderer implements GLSurfaceView.Renderer {
         GLES20.glEnable(GL_DEPTH_TEST);
 
         SceneController.mapInitialize("test_map");
+
         OGLESRenderTypes.GL_TRIANGLES.preCompileShader();
         OGLESRenderTypes.GL_TEXTURED_TRIANGLES.preCompileShader();
     }
