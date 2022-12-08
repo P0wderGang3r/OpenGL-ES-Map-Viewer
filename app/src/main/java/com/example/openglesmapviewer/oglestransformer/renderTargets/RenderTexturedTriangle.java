@@ -188,10 +188,12 @@ public class RenderTexturedTriangle implements RenderTarget {
             triangleCoords[vertexCount * currentNumOfCoords + 1] = Y;
             triangleCoords[vertexCount * currentNumOfCoords + 2] = Z;
 
+            /*
             for (int i = 0; i < vertexCount; i++) {
                 System.out.print(triangleCoords[i] + " ");
             }
-            System.out.println();
+             */
+            //System.out.println();
 
             currentNumOfCoords += 1;
         }
